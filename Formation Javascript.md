@@ -1,5 +1,4 @@
 
-
 ## Les compétences que cette formation valide
 
 * maîtriser les notions fondamentales de Javascript et les objets JSON ;
@@ -28,9 +27,7 @@
 
 courte présentation de chaque point, réponses aux questions, et travaux dirigés en groupe, sous la forme de workshops, un par chapitre de la formation.
 
-## Programme
-
-Premier jour : 
+## Programme détaillé de la formation
 
 ### Découverte de l'écosystème Js
 
