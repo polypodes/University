@@ -1,4 +1,3 @@
-
 ## Les compétences que cette formation valide
 
 * maîtriser les notions fondamentales de Javascript et les objets JSON ;
@@ -35,14 +34,14 @@ courte présentation de chaque point, réponses aux questions, et travaux dirig�
 * aperçu des usages de Js aujourdh'ui
 * comprendre la différence entre front-JS et JS server-side
 
-### notions fondamentales
+### Notions fondamentales de Javascript
 
 * les types de variables
 * la portée d'une variable (scope)
 * les objets et leurs prototypes
 * les structures de contrôle : boucles, conditions
 
-### Ecrire du Js au quotidien
+### Votre code Javascript au quotidien
 
 * les types et objets prédéfinis: Array, String, Date, etc.
 * les fonctions et la notion de callback
