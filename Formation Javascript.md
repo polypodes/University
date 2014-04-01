@@ -1,16 +1,18 @@
+# Formation Javascript
+
 ## Les compétences que cette formation valide
 
-* maîtriser les notions fondamentales de Javascript et les objets JSON ;
-* créer des scripts et structurer son code ;
-* interagir avec les pages web en tirant parti des nouveautés d'HTML5 ;
-* gérer les évènements et les données dans la page web ;
-* manipuler le DOM et créer des requêtes Ajax ;
-* tester son code ;
-* connaître l'écosystème Js et les librairires les plus utiles.
-* découverte rapide de Node.Js et NPM
+- maîtriser les notions fondamentales de Javascript et les objets JSON ;
+- créer des scripts et structurer son code ;
+- interagir avec les pages web en tirant parti des nouveautés d'HTML5 ;
+- gérer les évènements et les données dans la page web ;
+- manipuler le DOM et créer des requêtes Ajax ;
+- tester son code ;
+- connaître l'écosystème Js et les librairires les plus utiles.
+- découverte rapide de Node.Js et NPM
 
 
-## Jours
+## Durée
 
 * 3 jours
 
@@ -24,7 +26,7 @@
 
 ## Methode pratique
 
-courte présentation de chaque point, réponses aux questions, et travaux dirigés en groupe, sous la forme de workshops, un par chapitre de la formation.
+Courte présentation de chaque point, réponses aux questions, et travaux dirigés en groupe, sous la forme de workshops, un par chapitre de la formation.
 
 ## Programme détaillé de la formation
 
