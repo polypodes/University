@@ -1,4 +1,13 @@
-# PROGRAMME
+# Drupal 
+
+<img align="right" src="https://drupal.org/files/druplicon.small_.png" alt="Drupal" title="Drupal"/>
+
+
+Drupal est un système de gestion de contenu (CMS) libre et open-source publié sous la licence publique générale GNU, et écrit en PHP. D'après son créateur, environ 500 000 sites l'utilisaient déjà dès septembre 2009. 
+
+L'agence Les Polypodes à Nantes utilise Drupal depuis 2011.
+
+# Plan de Formation (1 jour)
 
 ## Introduction à Drupal et à la notion de CMS
 
