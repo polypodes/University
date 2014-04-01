@@ -2,19 +2,19 @@
 
 ## Introduction à Drupal et à la notion de CMS
 
-### Récapitulatif des technologies du Web
+- Récapitulatif des technologies du Web
 
-### Présentation générale des CMS et du "jargon" Drupal
+- Présentation générale des CMS et du "jargon" Drupal
 
-### Vue d'ensemble des possibilités de Drupal, points forts / points faibles
+- Vue d'ensemble des possibilités de Drupal, points forts / points faibles
 
-### Travaux pratiques : S'identifier, changer ses informations, parcourir l'interface utilisateur
+- Travaux pratiques : S'identifier, changer ses informations, parcourir l'interface utilisateur
 
 ## Edition du site Web
 
-### Présentation des outils pour la création de contenu
+- Présentation des outils pour la création de contenu
 
-### Travaux pratiques : Créer / modifier / supprimer du contenu
+- Travaux pratiques : Créer / modifier / supprimer du contenu
 
 ## Médiathèque
 
@@ -26,8 +26,8 @@
 
 ## Administration du site
 
-### Création de modérateur
-### Comprendre le workflow de publication
-### Coprendre l'accès au contenu
+- Création de modérateur
+- Comprendre le workflow de publication
+- Coprendre l'accès au contenu
 
 ## Questions, échanges
