@@ -1,6 +1,6 @@
 # Formation Javascript
 
-## Les compétences que cette formation valide
+## Les compétences que valide cette formation
 
 - maîtriser les notions fondamentales de Javascript et les objets JSON ;
 - créer des scripts et structurer son code ;
@@ -18,7 +18,7 @@
 
 ## Public
 
-* développeurs web junior, (faux-)débutants sur Javascript
+* Développeurs web, intégrateurs HTML/CSS, (faux-)débutants sur Javascript
 
 ## Prérequis
 
@@ -30,56 +30,91 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 ## Programme détaillé de la formation
 
-### Découverte de l'écosystème Js
+## Premier jour
 
-* actualité du langage Js et d'EcmaScript
-* aperçu des usages de Js aujourdh'ui
-* comprendre la différence entre front-JS et JS server-side
+#### Découverte de l'écosystème Js
+
+* Aperçu des usages de Js aujourd'hui
+* Actualité du langage Js et d'EcmaScript
+* Le moteur Js est-il différent dans chaque navigateur web ?
+* Comprendre la différence entre frontend JS et server-side Js
+* Choisir un éditeur, configurer la coloration syntaxique
 
 ### Notions fondamentales de Javascript
 
-* les types de variables
-* la portée d'une variable (scope)
-* les objets et leurs prototypes
-* les structures de contrôle : boucles, conditions
+* Les types de variables
+* La portée d'une variable (scope)
+* Les objets et leurs prototypes
+* La référence et la copie
+* Les opérateurs : logique, comparaison, affectation, calcul
+* Les structures de contrôle et les boucles
 
 ### Votre code Javascript au quotidien
 
-* les types et objets prédéfinis: Array, String, Date, etc.
-* les fonctions et la notion de callback
-* comment organiser et factoriser son code
-* l'objet et le prototypage
-* comprendre pourquoi n'y at-til pas de "class" en Js
+* Les objets prédéfinis: Array, String, Date, etc.
+* Les propriétés et méthodes des objets prédéfinis 
+* Les fonctions: définition, appel, paramètres
+* La notion de callback
+* Comment organiser et factoriser son code
 
-### Environnement de développement collaboratif et tooling
+### Mise en pratique
 
-* choisir un éditeur, configurer la coloration syntaxique
-* tirer partie de la console de debug Js de Chrome et de Firefox
+* Coding Dojo avec Js (sujet surprise)
 
-### JS et le web
+## Deuxième jour
 
-* manipuler le DOM et CSS en Js
-* le type Event et les eventListeners
-* introduction à jQuery
-* jQuery vs "vanilla Js"
-* Sensibilisation à la performance des scripts Js
+### Créer, partager et interagir avec les objets Js
 
-### Introduction à AJAX
-* principes, définition et usages
-* l'objet XMLHttpRequest
-* Ajax() avec jQuery
+* L'objet et le prototypage
+* Comprendre pourquoi n'y at-t-il pas de "class" en Js
+* Les fonctions anonymes, les closures
+* Rendre publics ou privés les attributs et méthodes d'un objet Js
+* Gérer les erreurs et exceptions en JavaScript
+
+### Manipuler les pages et formulaires web avec Js
+
+* Utiliser les objets Js du navigateur web
+* Le type Event et les eventListeners
+* Manipuler le DOM avec Js
+* Tirer partie de la console de debug Js de Chrome et de Firefox
+
+### Réaliser des appels asynchrones : AJAX
+
+* Principes, définition et usages
+* L'objet XMLHttpRequest
+* .ajax() avec jQuery
+
+### Mise en pratique
+
+* TP avec l'API js de GoogleMap ou GoogleAnalytics (au choix)
+
+## Troisème jour
+
+### jQuery
+
+* Introduction à jQuery... et à ses alternatives (Zeptojs)
+* Choisir entre jQuery et le "vanilla Js"
+* Créer un module (plugin) basé sur jQuery
 
 ### Prototypage, tests et démarche qualité 
 
-* découvrir les éditeurs collaboratifs en ligne, pour le prototypage (codepen.io, jsfiddle, etc.)
-* utiliser au moins un framework de test unitaires et la pratique du Test-Driven Developement,
-* utiliser un framework de tests fonctionels, et comprendre les tests de comportement (BDD)
-* comprendre le jslint et les bonnes pratiques liés à la syntaxe
+* Découvrir les éditeurs collaboratifs en ligne, pour le prototypage (codepen.io, jsfiddle, etc.)
+* Utiliser un framework de test unitaires et la pratique du Test-Driven Developement,
+* Utiliser un framework de tests fonctionels, et comprendre les tests de comportement (BDD)
+* Comprendre le jslint et les bonnes pratiques liés à la syntaxe
 * Commenter/documenter utilement le code et utiliser JsDoc
+
+### Sensibilisation à la performance des scripts Js
+
+* Utiliser un CDN + un fallback local
+* Epargner la mémoire du navigateur
+* Minifier le code Js
+* Require.Js : n'invoquer que ce dont vous avez besoin
+
 
 ### Packaging, déploiement et méthodologie collaborative
 
 * Présentation du déploiement sur un hébergement pour nodeJS (Heroku)
 * Présentation de Bower
-* Présentation de Grunt
+* Présentation de Grunt ou Gulp (au choix)
 * Présentation de Yeoman
