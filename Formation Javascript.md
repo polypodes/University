@@ -58,7 +58,7 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 ### Mise en pratique
 
-* Coding Dojo avec Js (sujet surprise)
+* Workshop: Gérer une liste de contacts en Js
 
 ## Deuxième jour
 
@@ -86,7 +86,7 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 ### Mise en pratique
 
-* TP avec l'API js de GoogleMap ou GoogleAnalytics (au choix)
+* Workshop: Utiliser l'API Js de GoogleMap ou celle de GoogleAnalytics (au choix)
 
 ## Troisème jour
 
@@ -96,6 +96,11 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 * Choisir entre jQuery et le "vanilla Js"
 * Créer un module (plugin) basé sur jQuery
 * Bonnes et mauvaises pratiques avec jQuery
+ 
+
+### Mise en pratique
+
+* Workshop: Créer un plugin métier basé sur jQuery
 
 ### Prototypage, tests et démarche qualité 
 
