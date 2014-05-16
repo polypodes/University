@@ -2,13 +2,12 @@
 
 ## Les compétences que valide cette formation
 
-- Maîtriser les notions fondamentales de Javascript;
-- Créer des scripts et structurer son code ;
-- Interagir avec les pages web en tirant parti des nouveautés d'HTML5 ;
-- Gérer les évènements et les données dans la page web ;
-- Manipuler le DOM et créer des requêtes Ajax ;
-- Tester son code ;
-- Connaître l'écosystème Js et les librairires les plus utiles.
+- Maîtriser les notions fondamentales de Javascript
+- Connaître l'écosystème Js et les librairies les plus utiles
+- Comprendre et utiliser la notion d'évènement en Js
+- Interagir avec le navigateur et le contenu des pages web
+- Créer des requêtes Ajax et consommer des API REST avec Js
+- Organiser, documenter et tester son code Js
 
 
 ## Durée
@@ -21,7 +20,7 @@
 
 ## Prérequis
 
-* notions de développement de page web avec HTML
+* Notions de développement de page web avec HTML
 
 ## Methode pratique
 
@@ -55,7 +54,7 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 * Les fonctions: définition, appel, paramètres
 * La notion de callback
 * Comment organiser et factoriser son code
-* Ce que JSON est à Javascript
+* "use strict", commas et jslint
 
 ### Mise en pratique
 
@@ -75,7 +74,7 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 * Utiliser les objets Js du navigateur web
 * Le type Event et les eventListeners
-* Manipuler le DOM avec Js
+* Manipuler le DOM avec Js, manipuler les éléments et attributs HTML5
 * Tirer partie de la console de debug Js de Chrome et de Firefox
 
 ### Réaliser des appels asynchrones : AJAX
@@ -83,6 +82,7 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 * Principes, définition et usages
 * L'objet XMLHttpRequest
 * .ajax() avec jQuery
+* Ce que JSON est à Javascript
 
 ### Mise en pratique
 
@@ -92,9 +92,10 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 ### jQuery
 
-* Introduction à jQuery... et à ses alternatives (Zeptojs)
+* Introduction à jQuery... et à ses alternatives (Zepto.js)
 * Choisir entre jQuery et le "vanilla Js"
 * Créer un module (plugin) basé sur jQuery
+* Bonnes et mauvaises pratiques avec jQuery
 
 ### Prototypage, tests et démarche qualité 
 
@@ -108,13 +109,12 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 * Utiliser un CDN + un fallback local
 * Epargner la mémoire du navigateur
-* Minifier le code Js
+* Automatiser la minification du code Js
 * Require.Js : n'invoquer que ce dont vous avez besoin
-
 
 ### Packaging, déploiement et méthodologie collaborative
 
-* Présentation du déploiement sur un hébergement pour nodeJS (Heroku)
-* Présentation de Bower
-* Présentation de Grunt ou Gulp (au choix)
-* Présentation de Yeoman
+* Présentation rapide de NodeJS et npm
+* Présentation rapide de Bower
+* Présentation rapide de Grunt ou Gulp (au choix)
+* Présentation rapide de Yeoman
