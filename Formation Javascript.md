@@ -40,7 +40,7 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 ### Notions fondamentales de Javascript
 
-* Les types de variables
+* Structures de données : Objets et tableaux
 * La portée d'une variable (scope)
 * Les objets et leurs prototypes
 * La référence et la copie
@@ -53,8 +53,11 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 * Les propriétés et méthodes des objets prédéfinis 
 * Les fonctions: définition, appel, paramètres
 * La notion de callback
+
+### Serious Javascript  
 * Comment organiser et factoriser son code
-* "use strict", commas et jslint
+* Google JS Style guide, JSHint, JSLint
+* _Js jokes_: undefined VS null, conversions
 
 ### Mise en pratique
 
