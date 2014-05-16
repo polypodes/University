@@ -2,14 +2,13 @@
 
 ## Les compétences que valide cette formation
 
-- maîtriser les notions fondamentales de Javascript et les objets JSON ;
-- créer des scripts et structurer son code ;
-- interagir avec les pages web en tirant parti des nouveautés d'HTML5 ;
-- gérer les évènements et les données dans la page web ;
-- manipuler le DOM et créer des requêtes Ajax ;
-- tester son code ;
-- connaître l'écosystème Js et les librairires les plus utiles.
-- découverte rapide de Node.Js et NPM
+- Maîtriser les notions fondamentales de Javascript;
+- Créer des scripts et structurer son code ;
+- Interagir avec les pages web en tirant parti des nouveautés d'HTML5 ;
+- Gérer les évènements et les données dans la page web ;
+- Manipuler le DOM et créer des requêtes Ajax ;
+- Tester son code ;
+- Connaître l'écosystème Js et les librairires les plus utiles.
 
 
 ## Durée
@@ -56,6 +55,7 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 * Les fonctions: définition, appel, paramètres
 * La notion de callback
 * Comment organiser et factoriser son code
+* Ce que JSON est à Javascript
 
 ### Mise en pratique
 
@@ -67,7 +67,7 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 * L'objet et le prototypage
 * Comprendre pourquoi n'y at-t-il pas de "class" en Js
-* Les fonctions anonymes, les closures
+* Les fonctions anonymes ; les closures
 * Rendre publics ou privés les attributs et méthodes d'un objet Js
 * Gérer les erreurs et exceptions en JavaScript
 
