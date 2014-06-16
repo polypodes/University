@@ -1,6 +1,6 @@
 # Les Polypodes University 
 
-L'offre de formation de formation des Polypodes, éligible aux 
+L'offre de formation de l'agence Ls Polypodes, éligible aux crédits formations.
 
 ## [Formation Drupal contributeur](Formation%20Drupal%20:%20Contributeur.md) (1 jour)
 
