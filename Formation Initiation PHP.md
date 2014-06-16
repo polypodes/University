@@ -78,11 +78,11 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 - PHP & HTTP
 - Cookies
 - Sessions
-- PHP et les formulaires web
+- PHP et les formulaires web : recevoir et valider les données utilisateur
 
 #### Workshop: Créer et administrer une liste de contacts en PHP
 
-## Troisème jour
+## Troisième jour
 
 ### PHP et les formats de données
 
@@ -117,8 +117,9 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 - _PHP jokes_: typage et méthodes magiques
 
 ### Aperçu des Design Patterns et éléments d'architecture des projets PHP
-* Utiliser un ORM ? (Doctrine)
-* Utiliser un conteneur d'injection de dépendances (Pimple)
-* Utiliser un micro-framework PHP (Silex)
-* Utilise un framework de tests (PhpUnit)
-* Utiliser un serveur d'intégration continue (SISMO ou Travis-CI)
+
+- Utiliser un ORM ? (Doctrine)
+- Utiliser un conteneur d'injection de dépendances (Pimple)
+- Utiliser un micro-framework PHP (Silex)
+- Utilise un framework de tests (PhpUnit)
+- Utiliser un serveur d'intégration continue (SISMO ou Travis-CI)
