@@ -10,13 +10,15 @@
 - Organiser la recette et le debug d'une application PHP avec un outil de _ticketing_: Redmine, Github ou Bitbucket
 - Mise en application : Suite de workshops autour d'une API REST avec PHP
 
+Inspiration: - [phptherightway.com](http://www.phptherightway.com/), [phpbestpractices.org](http://phpbestpractices.org), [phpqatools.org](http://phpqatools.org/), [Jenkins-PHP.org](jenkins-php.org)l'expertise et l'expérience du formateur
+
 ## Durée
 
 - 3 jours
 
 ## Public
 
-- développeurs PHP junior
+- développeurs PHP juniors et motivés !
 
 ## Prérequis
 
@@ -38,7 +40,7 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 #### Workshop: Etablir une checklist qualité
 
-### a PHP upgrade
+### _a PHP upgrade_
 - Actualité du langage PHP et de son écosystème
 - Nouveautés de PHP 5.4.x / 5.5.x / 5.6.x
 - PHP-FIG (Framework Interoperability Group) et les PSR (Proposed Standards Recommendations)
@@ -64,6 +66,42 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 #### Workshop: Installer et utiliser SwitMailer, envoyer des emails avec l'API d'un SMTP tiers
 
+### Aperçu des Design Patterns et éléments d'architecture des projets PHP
+
+- Utiliser le pattern MVC
+- Utiliser un ORM ? (Doctrine2) ou un OMM (POMM) ? ou rien du tout ?
+- Utiliser le pattern Front Controller via un micro-framework PHP (Silex)
+- Utiliser le Conteneur d'Injection de Dépendances (Pimple via Silex)
+
+## Deuxième jour
+
+### Les tests unitaires, les tests fonctionnels, les tests de comportements
+
+- Où commencent et s'arrêtent les tests : quoi et pourquoi tester du code ?
+- Construire une assurance anti-régression en capitalisant sur les tests
+- PHPUnit et les objectifs réels et utiles de _couverture de code_
+- WebTestCase (Symfony2 ou Silex) : les tests fonctionnelles appliqués au web
+- Behat et la _business value_ réelle d'un développement PHP
+
+#### Workshop: "Green code": Pratiquer le TDD et le BDD sur une petite API REST PHP
+
+### Building: Automatiser les tâches
+
+- Présentation de Phing
+- Présentation de Capistrano / Capiphony
+- Ce bon vieux Makefile
+
+#### Workshop: "Green build": Utiliser un système de build
+
+### Continuous Integration: Communiquer autour de la qualité d'un développement PHP
+
+- Présentation de Jenkins
+- Présentation de Travis-ci
+- Présentation Scrutiner-ci
+- Présentation de SISMO
+
+#### Workshop: "Green integration": Utiliser un serveur d'intégration continue
+
 ### PHP Quality Toolchain pour auditer du code PHP
 
 - Mesurer, avant de ré-écrire ou de prendre en charge une TMA
@@ -72,6 +110,8 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 - La _quality toolchain_ de PHP : phpcs, php-loc, phpmd, phpdcd, phpcpd
 
 #### Workshop: Obtenir des métriques qualité sur un projet PHP ancien, avant d'initier un refactoring
+
+## Deuxième jour
 
 ### PHP With style
 
@@ -82,6 +122,13 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 #### Workshop: Mettre en oeuvre php-cs-fixer sur un projet PHP existant
 
+### Documenter
+
+- Le README.md, ou comment se mettre à la places des autres
+- Comprendre et utiliser la syntaxe PHPDoc
+- Faut-il commenter son code au-delà de phpdoc
+- Générer une documentation avec PHPDoc
+
 ### Serious PHP
 
 - KISS
@@ -89,13 +136,5 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 - SOLID PHP
 - _PHP jokes_: typage et méthodes magiques
 
-### Aperçu des Design Patterns et éléments d'architecture des projets PHP
+#### Workshop: Mettre en oeuvre une API REST en garder en tête ces principes, démontrer qu'ils sont respectés
 
-
-- Utiliser le 
-- Utiliser le pattern MVC
-- Utiliser un ORM ? (Doctrine)
-- Utiliser le pattern Front Controller via un micro-framework PHP (Silex)
-- Utiliser le Conteneur d'Injection de Dépendances (Pimple via Silex)
-- Utiliser un framework de tests (PhpUnit)
-- Utiliser un serveur d'intégration continue (SISMO, Travis-CI ou Jenkins)
