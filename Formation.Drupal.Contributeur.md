@@ -1,4 +1,4 @@
-# Drupal 
+# Formation Drupal contributeur
 
 <img align="right" src="https://drupal.org/files/druplicon.small_.png" alt="Drupal" title="Drupal"/>
 
