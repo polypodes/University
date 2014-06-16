@@ -9,11 +9,11 @@ L'agence Les Polypodes à Nantes utilise Drupal depuis 2011.
 
 ## Les compétences que cette formation valide
 
-- maîtriser les notions fondamentales des Systèmes de Gestion de Contenus (CMS) ;
-- maîtriser les notions fondamentales de l'édition de contenu avec Drupal
-- rédiger et publier du contenu dans un site internet, pour le grand public
-- créer des contenus dynamiques, les mettre en forme et les relier entre eux
-- gérer une médiathèque en ligne (images, videos, etc.)
+- Maîtriser les notions fondamentales des Systèmes de Gestion de Contenus (CMS) ;
+- Maîtriser les notions fondamentales de l'édition de contenu avec Drupal
+- Rédiger et publier du contenu dans un site internet, pour le grand public
+- Créer des contenus dynamiques, les mettre en forme et les relier entre eux
+- Gérer une médiathèque en ligne (images, videos, etc.)
 
 ## Durée
 
