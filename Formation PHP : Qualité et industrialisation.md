@@ -64,7 +64,7 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 - Définir et obtenir les dépendances (bibliothèques PHP tierces)
 - Trouver évaluer et intégrer des projets PHP Open-Source utiles dans un projet en cours 
 
-#### Workshop: Installer et utiliser SwitMailer, envoyer des emails avec l'API d'un SMTP tiers
+#### Workshop: Installer et utiliser SwiftMailer pour envoyer des emails avec une API SMTP tierce
 
 ## Deuxième jour
 
