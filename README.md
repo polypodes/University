@@ -2,7 +2,7 @@
 
 L'offre de formation de l'agence Ls Polypodes, éligible aux crédits formations.
 
-## [Formation Drupal contributeur](Formation%20Drupal%20:%20Contributeur.md) (1 jour)
+## [Formation Drupal contributeur](Formation.Drupal.Contributeur.md) (1 jour)
 
 - Maîtriser les notions fondamentales des Systèmes de Gestion de Contenus (CMS) ;
 - Maîtriser les notions fondamentales de l'édition de contenu avec Drupal
@@ -10,7 +10,7 @@ L'offre de formation de l'agence Ls Polypodes, éligible aux crédits formations
 - Créer des contenus dynamiques, les mettre en forme et les relier entre eux
 - Gérer une médiathèque en ligne (images, videos, etc.)
 
-## [Formation Javascript](Formation%20Javascript.md) (1 jour)
+## [Formation Javascript](Formation.Javascript.md) (1 jour)
 
 - Maîtriser les notions fondamentales de Javascript
 - Connaître l'écosystème Js et les librairies les plus utiles
@@ -38,7 +38,7 @@ L'offre de formation de l'agence Ls Polypodes, éligible aux crédits formations
 - Automatiser le test de rendu sous différentes plateformes
 - HTML pour les emails
 
-## [Formation PHP : Kickstarting](Formation%20PHP%20:%20Kickstarting.md) (3 jours)
+## [Formation PHP : Kickstarting](Formation.PHP.Kickstarting.md) (3 jours)
 
 - Maîtriser les notions fondamentales de PHP
 - Connaître l'écosystème PHP
@@ -49,7 +49,7 @@ L'offre de formation de l'agence Ls Polypodes, éligible aux crédits formations
 - Créer une API REST avec PHP
 - Organiser, documenter et tester son code
 
-## [Formation PHP : Qualité et industrialisation](Formation%20PHP%20:%20Qualité%20et%20industrialisation.md) (3 jours)
+## [Formation PHP : Qualité et industrialisation](Formation.PHP.Qualite.Et.Industrialisation.md) (3 jours)
 
 - Mettre en place une politique de qualité du code en équipe
 - Mettre en place un outillage pour assurer qualité du code 
