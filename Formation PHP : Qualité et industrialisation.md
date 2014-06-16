@@ -1,5 +1,4 @@
-# Formation Javascript
-
+# Formation PHP : Qualité et industrialisation.md
 ## Les compétences que valide cette formation
 
 - Mettre en place un outillage pour assurer qualité du code 
@@ -103,6 +102,14 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 #### Workshop: "Green integration": Utiliser un serveur d'intégration continue
 
 ## Troisième jour
+
+### Feedback & support: Automatiser les tâches de maintenance
+
+- Gestion des demandes via les issues de Github
+- Gestion des demandes via les issues de Bitbucket
+- Gestion des demandes via Redmine
+
+#### Workshop: Partger l'API Workshop sur Github et définir/qualifier/affecter un jalon, _fixer_ via git commit
 
 ### PHP Quality Toolchain pour auditer du code PHP
 
