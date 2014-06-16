@@ -19,7 +19,7 @@ L'offre de formation de formation des Polypodes, éligible aux
 - Créer des requêtes Ajax et consommer des API REST avec Js
 - Organiser, documenter et tester son code Js
 
-## Formation Modern Web Dev Front-end: Toolchain & Workflow
+## Formation Modern Web Dev Front-end: Toolchain & Workflow (3 jour)
 
 - Block, Element, Modifier: Utiliser la méthode BEM en intégration web
 - Connaître et utiliser Bootstrap
@@ -49,7 +49,7 @@ L'offre de formation de formation des Polypodes, éligible aux
 - Créer une API REST avec PHP
 - Organiser, documenter et tester son code
 
-## [Formation PHP : Qualité et industrialisation](Formation%20PHP%20:%20Qualité%20et%20industrialisation.md)
+## [Formation PHP : Qualité et industrialisation](Formation%20PHP%20:%20Qualité%20et%20industrialisation.md) (3 jours)
 
 - Mettre en place une politique de qualité du code en équipe
 - Mettre en place un outillage pour assurer qualité du code 
