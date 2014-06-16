@@ -138,3 +138,6 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 #### Workshop: Mettre en oeuvre une API REST en garder en tête ces principes, démontrer qu'ils sont respectés
 
+### _Future PHP_
+
+Une petite présentation de HHVM et un exemple d'utilisation avec `composer`
