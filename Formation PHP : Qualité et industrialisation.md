@@ -66,14 +66,14 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 #### Workshop: Installer et utiliser SwitMailer, envoyer des emails avec l'API d'un SMTP tiers
 
+## Deuxième jour
+
 ### Aperçu des Design Patterns et éléments d'architecture des projets PHP
 
 - Utiliser le pattern MVC
 - Utiliser un ORM ? (Doctrine2) ou un OMM (POMM) ? ou rien du tout ?
 - Utiliser le pattern Front Controller via un micro-framework PHP (Silex)
 - Utiliser le Conteneur d'Injection de Dépendances (Pimple via Silex)
-
-## Deuxième jour
 
 ### Les tests unitaires, les tests fonctionnels, les tests de comportements
 
@@ -102,6 +102,8 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 #### Workshop: "Green integration": Utiliser un serveur d'intégration continue
 
+## Troisième jour
+
 ### PHP Quality Toolchain pour auditer du code PHP
 
 - Mesurer, avant de ré-écrire ou de prendre en charge une TMA
@@ -110,8 +112,6 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 - La _quality toolchain_ de PHP : phpcs, php-loc, phpmd, phpdcd, phpcpd
 
 #### Workshop: Obtenir des métriques qualité sur un projet PHP ancien, avant d'initier un refactoring
-
-## Deuxième jour
 
 ### PHP With style
 
