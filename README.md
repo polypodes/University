@@ -19,7 +19,26 @@ L'offre de formation de formation des Polypodes, éligible aux
 - Créer des requêtes Ajax et consommer des API REST avec Js
 - Organiser, documenter et tester son code Js
 
-## Formation PHP : Kickstarting (3 jours)
+## Formation Modern Web Dev Front-end: Toolchain & Workflow
+
+- Block, Element, Modifier: Utiliser la méthode BEM en intégration web
+- Connaître et utiliser Bootstrap
+- Utiliser un prépocesseur et structurer les feuilles de styles avec LESS
+- Tirer partie des fichiers LESS de Bootstrap
+- Comment utiliser le sémantique versionning des vendors
+- Comprendre et utiliser Yeoman et Bower
+- HTML 5, ou bien... Jade ?
+- Organiser le code HTML 5 pour l'intégration
+- Structurer son intégration : dossiers sources & builds, README 
+- Automatiser le build avec Gulp
+- Utiliser les Google Chrome DevTools pour l'intégration
+- jQuery the Right Way: Do's & Dont's avec la plus populaire des librairies Js
+- Tirer partie des mixins
+- Tester son code Js
+- Automatiser le test de rendu sous différentes plateformes
+- HTML pour les emails
+
+## [Formation PHP : Kickstarting](Formation%20PHP%20:%20Kickstarting.md) (3 jours)
 
 - Maîtriser les notions fondamentales de PHP
 - Connaître l'écosystème PHP
@@ -30,7 +49,7 @@ L'offre de formation de formation des Polypodes, éligible aux
 - Créer une API REST avec PHP
 - Organiser, documenter et tester son code
 
-## Formation PHP : Qualité et industrialisation
+## [Formation PHP : Qualité et industrialisation](Formation%20PHP%20:%20Qualité%20et%20industrialisation.md)
 
 - Mettre en place une politique de qualité du code en équipe
 - Mettre en place un outillage pour assurer qualité du code 
