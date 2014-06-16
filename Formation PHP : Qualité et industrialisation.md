@@ -1,11 +1,16 @@
 # Formation PHP : Qualité et industrialisation.md
 ## Les compétences que valide cette formation
 
+- Mettre en place une politique de qualité du code en équipe
 - Mettre en place un outillage pour assurer qualité du code 
-- Maîtriser les tests unitaires et les tests de comportement en PHP
 - Utiliser un système de gestion de dépendances (package Manager) : Composer
-- Mettre en oeuvre un serveur d'intégration continue: Jenkins, Travis ou Sismo
-- Organiser, documenter et tester son code
+- Maîtriser les tests unitaires et les tests de comportement en PHP
+- Savoir mesurer la qualité d'un code PHP existant devant être maintenu
+- Connaître les Design Patterns et éléments d'architecture des projets PHP
+- Connaitre les principes KISS, DRY, SOLID, et les mettre en oeuvre
+- Utiliser un moteur de build : Phing, Capistrano ou Makefile
+- Mettre en place un serveur d'intégration continue: Jenkins, Travis, Scrutinizer ou Sismo
+- Organiser et documenter son code "pour les autres"
 - Organiser la recette et le debug d'une application PHP avec un outil de _ticketing_: Redmine, Github ou Bitbucket
 - Mise en application : Suite de workshops autour d'une API REST avec PHP
 
@@ -33,6 +38,7 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 ## Premier jour
 
 ### PHP orienté qualité
+
 - Qu'appelle-t-on exactement la "qualité"
 - Définit un périmètre d'assurance qualité
 - Partager l'information sur la qualité du code
