@@ -2,7 +2,7 @@
 ## Les compétences que valide cette formation
 
 - Mettre en place une politique de qualité du code en équipe
-- Mettre en place un outillage pour assurer qualité du code 
+- Mettre en place un outillage pour assurer la qualité du code 
 - Utiliser un système de gestion de dépendances (package Manager) : Composer
 - Maîtriser les tests unitaires et les tests de comportement en PHP
 - Savoir mesurer la qualité d'un code PHP existant devant être maintenu
