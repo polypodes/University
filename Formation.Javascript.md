@@ -126,3 +126,4 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 * Présentation rapide de Bower
 * Présentation rapide de Grunt ou Gulp (au choix)
 * Présentation rapide de Yeoman
+* Comment créer un workflow de build avec Js
