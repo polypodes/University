@@ -91,7 +91,7 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 * Workshop: Utiliser l'API Js de GoogleMap ou celle de GoogleAnalytics (au choix)
 
-## Troisème jour
+## Troisième jour
 
 ### jQuery
 
