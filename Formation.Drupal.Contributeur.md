@@ -14,6 +14,9 @@ L'agence Les Polypodes à Nantes utilise Drupal depuis 2011.
 - Rédiger et publier du contenu dans un site internet, pour le grand public
 - Créer des contenus dynamiques, les mettre en forme et les relier entre eux
 - Gérer une médiathèque en ligne (images, videos, etc.)
+- Comprendre les bons usages et une approche SEO du contenu
+- Comprendre les bons usages autour de l'aborescence des contenus dans un CMS
+- Avoir des notions d'accessibilité
 
 ## Durée
 
