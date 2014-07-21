@@ -54,16 +54,16 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 * Les fonctions: définition, appel, paramètres
 * La notion de callback
 
+### Mise en pratique
+
+* Workshop: Créer une liste de contacts en Js
+ 
+## Deuxième jour
+
 ### Serious Javascript  
 * Comment organiser et factoriser son code
 * Google JS Style guide, JSHint, JSLint
 * _Js jokes_: undefined VS null, conversions
-
-### Mise en pratique
-
-* Workshop: Gérer une liste de contacts en Js
-
-## Deuxième jour
 
 ### Créer, partager et interagir avec les objets Js
 
@@ -80,16 +80,9 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 * Manipuler le DOM avec Js, manipuler les éléments et attributs HTML5
 * Tirer partie de la console de debug Js de Chrome et de Firefox
 
-### Réaliser des appels asynchrones : AJAX
-
-* Principes, définition et usages
-* L'objet XMLHttpRequest
-* .ajax() avec jQuery
-* Ce que JSON est à Javascript
-
 ### Mise en pratique
 
-* Workshop: Utiliser l'API Js de GoogleMap ou celle de GoogleAnalytics (au choix)
+* Workshop: Enrichir et gérer une liste de contacts en Js
 
 ## Troisième jour
 
@@ -99,31 +92,16 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 * Choisir entre jQuery et le "vanilla Js"
 * Créer un module (plugin) basé sur jQuery
 * Bonnes et mauvaises pratiques avec jQuery
- 
 
+### Réaliser des appels asynchrones : AJAX
+
+* Principes, définition et usages
+* L'objet XMLHttpRequest
+* .ajax() avec jQuery
+* Ce que JSON est à Javascript
+ 
 ### Mise en pratique
 
-* Workshop: Créer un plugin métier basé sur jQuery
+* Workshop 1 : Utiliser l'API Js de GoogleMap ou celle de GoogleAnalytics (au choix)
 
-### Prototypage, tests et démarche qualité 
-
-* Découvrir les éditeurs collaboratifs en ligne, pour le prototypage (codepen.io, jsfiddle, etc.)
-* Utiliser un framework de test unitaires et la pratique du Test-Driven Developement,
-* Utiliser un framework de tests fonctionels, et comprendre les tests de comportement (BDD)
-* Comprendre le jslint et les bonnes pratiques liés à la syntaxe
-* Commenter/documenter utilement le code et utiliser JsDoc
-
-### Sensibilisation à la performance des scripts Js
-
-* Utiliser un CDN + un fallback local
-* Epargner la mémoire du navigateur
-* Automatiser la minification du code Js
-* Require.Js : n'invoquer que ce dont vous avez besoin
-
-### Packaging, déploiement et méthodologie collaborative
-
-* Présentation rapide de NodeJS et npm
-* Présentation rapide de Bower
-* Présentation rapide de Grunt ou Gulp (au choix)
-* Présentation rapide de Yeoman
-* Comment créer un workflow de build avec Js
+* Workshop 2 (option) : Créer un plugin métier basé sur jQuery
