@@ -89,8 +89,6 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 * Introduction à jQuery... et à ses alternatives (Zepto.js)
 * Choisir entre jQuery et le "vanilla Js"
-* Créer un module (plugin) basé sur jQuery
-* Bonnes et mauvaises pratiques avec jQuery
 
 ### Réaliser des appels asynchrones : AJAX
 
