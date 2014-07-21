@@ -102,7 +102,7 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 - Présentation de Jenkins
 - Présentation de Travis-ci
-- Présentation Scrutiner-ci
+- Présentation Scrutinizer-ci
 - Présentation de SISMO
 
 #### Workshop: "Green integration": Utiliser un serveur d'intégration continue
