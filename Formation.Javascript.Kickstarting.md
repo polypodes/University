@@ -7,7 +7,6 @@
 - Comprendre et utiliser la notion d'évènement en Js
 - Interagir avec le navigateur et le contenu des pages web
 - Créer des requêtes Ajax et consommer des API REST avec Js
-- Organiser, documenter et tester son code Js
 
 
 ## Durée
