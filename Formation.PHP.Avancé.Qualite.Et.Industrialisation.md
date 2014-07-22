@@ -1,4 +1,4 @@
-# Formation PHP Avancé : Qualité et industrialisation.md
+# Formation PHP Avancé : Qualité et industrialisation
 
 ## Les compétences que valide cette formation
 
