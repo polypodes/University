@@ -1,4 +1,5 @@
-# Formation PHP : Qualité et industrialisation.md
+# Formation PHP Avancé : Qualité et industrialisation.md
+
 ## Les compétences que valide cette formation
 
 - Mettre en place une politique de qualité du code en équipe
