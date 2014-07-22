@@ -19,8 +19,9 @@ L'offre de formation de l'agence Les Polypodes, éligible aux crédits formation
 - Créer des requêtes Ajax et consommer des API REST avec Js
 - Organiser, documenter et tester son code Js
 
-## Formation Modern Web Dev Front-end: Toolchain & Workflow (3 jour)
+## Formation Integration Web HTML/CSS/Js: Toolchain & Workflow (3 jour)
 
+- Comprendre les notions fondamentales du _design atomique_ d'une page web
 - Block, Element, Modifier: Utiliser la méthode BEM en intégration web
 - Connaître et utiliser Bootstrap
 - Utiliser un prépocesseur et structurer les feuilles de styles avec LESS
