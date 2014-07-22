@@ -118,8 +118,8 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 ### Aperçu des Design Patterns et éléments d'architecture des projets PHP
 
-- Utiliser un ORM ? (Doctrine)
-- Utiliser un conteneur d'injection de dépendances (Pimple)
-- Utiliser un micro-framework PHP (Silex)
-- Utilise un framework de tests (PhpUnit)
-- Utiliser un serveur d'intégration continue (SISMO ou Travis-CI)
+- Connaître un ORM (Doctrine)
+- Connaître un conteneur d'injection de dépendances (Pimple)
+- Découvrir un micro-framework PHP (Silex)
+- Découvrir un framework de tests (PhpUnit)
+- Connaître un serveur d'intégration continue (SISMO ou Travis-CI)
