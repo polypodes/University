@@ -3,7 +3,7 @@
 ## Les compétences que valide cette formation
 
 
-- Block, Element, Modifier: Utiliser la méthode BEM en intégration web
+- _Block, Element, Modifier_: Utiliser le design atomique et la méthode BEM en intégration web
 - Connaître et utiliser Bootstrap
 - Savoir composer les assests Bootstrap selon ses propre besoins
 - Utiliser un prépocesseur CSS et structurer les feuilles de styles avec LESS
