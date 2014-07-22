@@ -10,14 +10,17 @@ L'offre de formation de l'agence Les Polypodes, éligible aux crédits formation
 - Créer des contenus dynamiques, les mettre en forme et les relier entre eux
 - Gérer une médiathèque en ligne (images, videos, etc.)
 
-## [Formation Javascript](Formation.Javascript.md) (1 jour)
+## [Formation Javascript Kickstarting](Formation.Javascript.Kickstarting.md) (3 jour)
 
 - Maîtriser les notions fondamentales de Javascript
 - Connaître l'écosystème Js et les librairies les plus utiles
 - Comprendre et utiliser la notion d'évènement en Js
 - Interagir avec le navigateur et le contenu des pages web
 - Créer des requêtes Ajax et consommer des API REST avec Js
-- Organiser, documenter et tester son code Js
+
+## [Formation Javascript Avancé](Formation.Javascript.Avancé.md) (3 jour)
+
+- Maîtriser les noti
 
 ## [Initiation à l'integration Web HTML/CSS](Initiation.Integration.Web.HTML.CSS.md) (3 jour)
 
