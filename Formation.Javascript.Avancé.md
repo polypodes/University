@@ -33,7 +33,7 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 ## Premier jour
 
-#### Découverte de l'écosystème Js
+#### Re-découvrir l'écosystème Js
 
 * Aperçu des usages de Js aujourd'hui
 * Actualité du langage Js et d'EcmaScript
