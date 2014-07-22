@@ -14,13 +14,20 @@ L'offre de formation de l'agence Les Polypodes, éligible aux crédits formation
 
 - Maîtriser les notions fondamentales de Javascript
 - Connaître l'écosystème Js et les librairies les plus utiles
-- Comprendre et utiliser la notion d'évènement en Js
-- Interagir avec le navigateur et le contenu des pages web
-- Créer des requêtes Ajax et consommer des API REST avec Js
+- Comprendre et utiliser la notion d'évènement en Javascript
+- Interagir via Javascript avec le contenu des pages et formulaires web
+- Créer des requêtes Ajax et consommer des API REST avec Javascript
 
 ## [Formation Javascript Avancé](Formation.Javascript.Avancé.md) (3 jour)
 
-- Maîtriser les noti
+- Re-découvrir l'écosystème Js
+- Rappel de quelques unes des notions fondamentales de Javascript
+- Architecture d'une application Javascript
+- jQuery et ses alternatives
+- Comprendre le prototypage en ligne et la documentation du code
+- Choisir et mettre en oeuvre une "assurance qualité" pour son code
+- Comprendre les problématiques liées à la performance des applications Js
+- Connaître quelques outils de packaging, déploiement et méthodologie collaborative
 
 ## [Initiation à l'integration Web HTML/CSS](Initiation.Integration.Web.HTML.CSS.md) (3 jour)
 
