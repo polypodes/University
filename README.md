@@ -19,25 +19,22 @@ L'offre de formation de l'agence Les Polypodes, éligible aux crédits formation
 - Créer des requêtes Ajax et consommer des API REST avec Js
 - Organiser, documenter et tester son code Js
 
-## Formation Integration Web HTML/CSS/Js: Toolchain & Workflow (3 jour)
+## [Initiation à l'integration Web HTML/CSS](Initiation.Integration.Web.HTML.CSS.md) (3 jour)
 
-- Comprendre les notions fondamentales du _design atomique_ d'une page web
-- Block, Element, Modifier: Utiliser la méthode BEM en intégration web
+- _Block, Element, Modifier_: Utiliser le design atomique et la méthode BEM en intégration web
 - Connaître et utiliser Bootstrap
-- Utiliser un prépocesseur et structurer les feuilles de styles avec LESS
+- Savoir composer les assests Bootstrap selon ses propre besoins
+- Utiliser un prépocesseur CSS et structurer les feuilles de styles avec LESS
 - Tirer partie des fichiers LESS de Bootstrap
-- Comment utiliser le sémantique versionning des vendors
-- Comprendre et utiliser Yeoman et Bower
-- HTML 5, ou bien... Jade ?
-- Organiser le code HTML 5 pour l'intégration
-- Structurer son intégration : dossiers sources & builds, README 
+- Comprendre le versioning sémantique des librairies tierces
+- Comprendre et utiliser Yeoman
+- Comprendre et utiliser Bower
+- Pouvoir choisir entre HTML5 et un préprocesseur HTML (Jade)
+- Structurer son intégration : dossiers sources & builds, README, dotfiles
 - Automatiser le build avec Gulp
-- Utiliser les Google Chrome DevTools pour l'intégration
+- Tirer parti des Google Chrome DevTools pour l'intégration
 - jQuery the Right Way: Do's & Dont's avec la plus populaire des librairies Js
-- Tirer partie des mixins
-- Tester son code Js
-- Automatiser le test de rendu sous différentes plateformes
-- HTML pour les emails
+- Connaître un outil pour automatiser le test de rendu sous différentes plateformes
 
 ## [Formation PHP : Kickstarting](Formation.PHP.Kickstarting.md) (3 jours)
 
