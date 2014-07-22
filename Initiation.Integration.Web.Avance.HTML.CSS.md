@@ -1,4 +1,4 @@
-# Formation Intégration Web Avancé: HTML/CSS
+# Initiation à l'Intégration Web Avancé: HTML/CSS
 
 ## Les compétences que valide cette formation
 
