@@ -2,11 +2,14 @@
 
 ## Les compétences que valide cette formation
 
-- Connaître l'écosystème Js et les librairies les plus utiles
-- Organiser son code de manière modulaire
-- Documenter son code
-- Tester son code
-- Tirer parti des bibliothèques Js les plus intéressantes
+- Re-découvrir l'écosystème Js et les librairies les plus utiles
+- Rappel de quelques unes des notions fondamentales de Javascript
+- Architecture d'une application Javascript
+- Re-découvrir jQuery
+- Prototypage et documentation
+- Assurance qualité : Tester et vérifier son code
+- Sensibilisation à la performance des applications Js
+- Packaging, déploiement et méthodologie collaborative
 
 
 ## Durée
@@ -46,8 +49,9 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 * comment rendre publics ou privés les attributs et méthodes d'un objet Js
 * La notion de callback
 
-### Serious Javascript  
-* Comment organiser et factoriser son code
+### Architecture d'une application Javascript 
+
+* Comment organiser et factoriser son code de manière modulaire
 * Google JS Style guide, JSHint, JSLint
 * _Js jokes_: undefined VS null, conversions
 
@@ -68,16 +72,11 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 * Workshop: Créer un plugin métier basé sur jQuery
 
-### Prototypage, tests et démarche qualité 
+### Prototypage et documentation 
 
 * Découvrir les éditeurs collaboratifs en ligne, pour le prototypage (codepen.io, jsfiddle, etc.)
-* Comprendre le jslint et les bonnes pratiques liés à la syntaxe
 * Commenter/documenter utilement le code et utiliser JsDoc
 
-### Mise en pratique
-
-* Workshop: Créer une suite de tests pour le code Js
- 
 ### Choisir et mettre en oeuvre une "assurance qualité" pour son code
 
 * Utiliser un framework de test unitaires et la pratique du Test-Driven Developement,
@@ -89,14 +88,14 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 ## Troisième jour
 
-### Sensibilisation à la performance 
+### Sensibilisation à la performance des applications Js
 
 * Utiliser un CDN + un fallback local
 * Epargner la mémoire du navigateur
 * Automatiser la minification du code Js
 * Require.Js : n'invoquer que ce dont vous avez besoin
 
-* Workshop: Monitorer Javascript et la Mémoire avec Chrome Developer Tool
+* Workshop: Monitorer Javascript et la mémoire navigateur avec Chrome Developer Tool
 
 ### Packaging, déploiement et méthodologie collaborative
 
