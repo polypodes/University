@@ -55,11 +55,27 @@ Courte présentation de chaque point, réponses aux questions, et travaux dirig�
 
 ### Médiathèque
 
+- Présentation du comportement Drupal et des médias
+
+- Gestion de la médiathèque (serveur)
+
+- introduction aux plateformes d'hébergements médias
+
 ### Se familiariser avec l'éditeur de texte riche
+
+- Présentation des outils propres à l'éditeur et des bonnes pratiques
+
+- Initiation à la hiérarchisation de la structure du contenu
 
 ### Classer son contenu avec la "taxonomie"
 
+- Présentation de la taxonomie et des outils de classification
+
+- Prise en main et définition du périmètre de la taxonomie pour l'utilisateur Drupal
+
 ### Travaux pratiques : mise en oeuvre de contenus multimedia enrichies avec Drupal 
+
+- Mise en application sur plusieurs types de contenus et médias
 
 ### Administration du site
 
