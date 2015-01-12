@@ -11,7 +11,9 @@
 - Utiliser un système de build et un serveur d'intégration continue et outil de _ticketing_
 - Mise en application : Suite de workshops autour d'une API REST avec PHP
 
-Inspiration: - [phptherightway.com](http://www.phptherightway.com/), [phpbestpractices.org](http://phpbestpractices.org), [phpqatools.org](http://phpqatools.org/), [Jenkins-PHP.org](jenkins-php.org)l'expertise et l'expérience du formateur
+Inspiration: 
+- [phptherightway.com](http://www.phptherightway.com/), [phpbestpractices.org](http://phpbestpractices.org), [phpqatools.org](http://phpqatools.org/), [Jenkins-PHP.org](jenkins-php.org)
+- l'expertise et l'expérience du formateur
 
 ## Durée
 
